@@ -1,0 +1,38 @@
+{
+    "personal_info": {
+        "name": "Sai Manideep Nagulapati",
+        "email": "manideep.nagulapati@gmail.com",
+        "phone": "9032572154",
+        "location": "Hyderabad",
+        "bio": "An AI/ML enthusiast, currently pursuing B.Tech in the stream of Computer Science.",
+        "skills": [
+            "Python",
+            "MERN Stack",
+            "DSA"
+        ]
+    },
+    "social_links": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/saimanideepnagulapati/"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Pallavi Engineering College",
+            "degree": "B.Tech",
+            "field_of_study": "Computer Science & Engineering",
+            "start_year": 2021,
+            "end_year": 2025
+        }
+    ],
+    "work_experience": [],
+    "projects": [
+        {
+            "name": "Interactive Stock Trends Analyzer",
+            "description": "Provide 3 seperate Stock articles URL's (example: from Moneycontrol website) and ask questions based on those articles ",
+            "github": "https://github.com/sai-manideep-exe/interactive-stock-trends-analyzer",
+            "live_link": "https://interactive-stock-trends-analyzer-bs7m9vf7je9eabewh9lv2p.streamlit.app/"
+        }
+    ]
+}
